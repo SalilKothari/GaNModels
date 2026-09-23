@@ -1,7 +1,0 @@
-part_number,Vdron,Vdroff,Rgoff,depth,vgsmiller_method,vgsmiller_value,voltage_threshold,notes
-DEFAULT,15.0,0.0,2.5,1.0,current_based,,100.0,Default parameters for GaN devices
-GS66516T,15.0,0.0,2.5,1.0,current_based,,100.0,GaN Systems 650V E-HEMT
-GS66508T,12.0,0.0,2.0,1.0,current_based,,100.0,GaN Systems 650V E-HEMT
-TPH3006PS,15.0,-3.0,3.0,1.0,threshold_plus_delta,2.5,100.0,Transphorm 650V cascode
-EPC2001C,5.0,0.0,1.0,1.0,fraction_of_vdron,0.6,50.0,EPC enhancement mode 100V
-EPC2045,5.0,0.0,1.5,1.0,fixed_voltage,3.5,50.0,EPC enhancement mode 200V
